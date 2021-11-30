@@ -17,7 +17,7 @@ This repo aims to provide an **Open Standard for UHF / VHF & HF to sailing vesse
   - In case of negative answer repeat the line
   - Inform the next 48hrs of Weather Report in the following standard repeating 1-Line every 30s
 
-|HR|WIND|GUST|DIRECTION|WAVE|DIRECTION|CLOUD|CLOUD TYPE|CAPE|COURSE SUGGEST|
+|HR|WIND|GUST|DIRECTION|WAVE|DIRECTION|RAIN|CLOUD TYPE|CAPE|COURSE SUGGEST|
 |----|----|----|----|----|----|----|----|----|----|
 |00|23|G34|NNE|2,4M|NNE|30|CB|000|120|
 |06|24|G37|N|2,6M|N|30|CB|300|175|
